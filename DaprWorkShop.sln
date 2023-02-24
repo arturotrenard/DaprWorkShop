@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaprWebApi", "DaprWebApi\DaprWebApi.csproj", "{9734F6E0-F5F8-4D4E-8089-54EC90941CFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaprWithState", "..\DaprWithState\DaprWithState.csproj", "{BE64B59F-0157-4B1A-9862-E79E84BD2786}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaprWithState", "DaprWithState\DaprWithState.csproj", "{BE64B59F-0157-4B1A-9862-E79E84BD2786}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaprTransmitterEvents", "DaprTransmitterEvents\DaprTransmitterEvents.csproj", "{F8E29606-F4B8-4613-9F60-DEB26AE74795}"
 EndProject
