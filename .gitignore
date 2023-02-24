@@ -1,0 +1,15 @@
+# IDE 
+.vs/*
+.vscode/*
+**.idea/
+
+# misc
+**/bin/
+**/Debug/
+**/Release/
+**/obj/
+.config/
+.sonarqube
+test_results/
+dotnetglobaltools/
+/coveragereport/

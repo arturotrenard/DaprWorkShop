@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaprWebApi", "DaprWebApi\DaprWebApi.csproj", "{9734F6E0-F5F8-4D4E-8089-54EC90941CFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaprWithState", "..\DaprWithState\DaprWithState.csproj", "{BE64B59F-0157-4B1A-9862-E79E84BD2786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaprTransmitterEvents", "DaprTransmitterEvents\DaprTransmitterEvents.csproj", "{F8E29606-F4B8-4613-9F60-DEB26AE74795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaprConsoleClient", "DaprConsoleClient\DaprConsoleClient.csproj", "{27438867-09CC-40A4-8904-0693E070B7AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9734F6E0-F5F8-4D4E-8089-54EC90941CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9734F6E0-F5F8-4D4E-8089-54EC90941CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9734F6E0-F5F8-4D4E-8089-54EC90941CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9734F6E0-F5F8-4D4E-8089-54EC90941CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE64B59F-0157-4B1A-9862-E79E84BD2786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE64B59F-0157-4B1A-9862-E79E84BD2786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE64B59F-0157-4B1A-9862-E79E84BD2786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE64B59F-0157-4B1A-9862-E79E84BD2786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E29606-F4B8-4613-9F60-DEB26AE74795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E29606-F4B8-4613-9F60-DEB26AE74795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E29606-F4B8-4613-9F60-DEB26AE74795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E29606-F4B8-4613-9F60-DEB26AE74795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27438867-09CC-40A4-8904-0693E070B7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27438867-09CC-40A4-8904-0693E070B7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27438867-09CC-40A4-8904-0693E070B7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27438867-09CC-40A4-8904-0693E070B7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
